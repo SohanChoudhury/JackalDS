@@ -7,6 +7,18 @@ title: About
   Thanks for stopping by! We’re Sohan and Rohit, Computer Science majors with concentrations in Theory and Intelligence at the Georgia Institute of Technology. We started this blog as outlet to share our data exploration with a wider community.
 </p>
 
+## Sohan
+
+I am originally from suburban Connecticut, and graduated from [Fairfield Warde High School](http://fairfieldschools.org/schools/fwhs/). At Tech, I’ve grown to love the bustle of Atlanta and have delved into the field of Data Science.
+
+Outside of classes, I’m an avid competitor on the Georgia Tech Debate Team and member of the [Data Science Club](http://datasciencegt.org), where my team is creating a predictive model of crime for our campus police department.
+
+As someone relatively new to Computer Science, I hope to explore new technologies and their applications. My primary experience in the field was working in bioinformatics at [Yale](http://sohanchoudhury.com/Yale/), where I developed programs to detect abnormal genetic splicing linked to leukemia. Ever since, I’ve been captivated by computational theory and problem solving.
+
+I enjoy new foods, attending talks, and striking up conversation about watches, politics, [logic problems](https://github.com/SohanChoudhury/APrisonerProblem), and anything in between. Oh, and I also run a fantastic blog with an okay guy.
+
+Want to learn more? Check out my personal [website](http://sohanchoudhury.com), or shoot me an email at sohan@jackalds.com!
+
 
 ## Rohit
 
@@ -20,18 +32,6 @@ In my free time, I am always down for a pickup game of ultimate frisbee, going o
 
 If you’re curious about more check me out at my personal website [rohitmittapalli.com](http://rohitmittapalli.com) or reach out to me at rohit@jackalds.com. I would love to talk!
 
-
-## Sohan
-
-I am originally from suburban Connecticut, and graduated from [Fairfield Warde High School](http://fairfieldschools.org/schools/fwhs/). At Tech, I’ve grown to love the bustle of Atlanta and have delved into the field of Data Science.
-
-Outside of classes, I’m an avid competitor on the Georgia Tech Debate Team and member of the [Data Science Club](http://datasciencegt.org), where my team is creating a predictive model of crime for our campus police department.
-
-As someone relatively new to Computer Science, I hope to explore new technologies and their applications. My primary experience in the field was working in bioinformatics at [Yale](http://sohanchoudhury.com/Yale/), where I developed programs to detect abnormal genetic splicing linked to leukemia. Ever since, I’ve been captivated by computational theory and problem solving.
-
-I enjoy new foods, attending talks, and striking up conversation about watches, politics, [logic problems](https://github.com/SohanChoudhury/APrisonerProblem), and anything in between. Oh, and I also run a fantastic blog with an okay guy.
-
-Want to learn more? Check out my personal [website](http://sohanchoudhury.com), or shoot me an email at sohan@jackalds.com!
 
 -----
 
