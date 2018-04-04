@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Thanks for stopping by! We’re Rohit and Sohan, Computer Science majors with concentrations in Theory and Intelligence at the Georgia Institute of Technology. We started this blog as outlet to share our data exploration with a wider community.
+  Thanks for stopping by! We’re Sohan and Rohit, Computer Science majors with concentrations in Theory and Intelligence at the Georgia Institute of Technology. We started this blog as outlet to share our data exploration with a wider community.
 </p>
 
 
@@ -31,9 +31,11 @@ As someone relatively new to Computer Science, I hope to explore new technologie
 
 I enjoy new foods, attending talks, and striking up conversation about watches, politics, [logic problems](https://github.com/SohanChoudhury/APrisonerProblem), and anything in between. Oh, and I also run a fantastic blog with an okay guy.
 
+Want to learn more? Check out my personal [website](http://sohanchoudhury.com), or shoot me an email at sohan@jackalds.com!
+
 -----
 
-Want to learn more? Check out my personal [website](http://sohanchoudhury.com), or shoot me an email at sohan@jackalds.com!
+Now that you know a little bit about us, we would love to get to know you! Feel free to reach out to us individually or at mail@jackalds.com.
 
 
 
