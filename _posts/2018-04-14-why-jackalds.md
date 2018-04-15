@@ -21,7 +21,7 @@ We joined CS, intrigued by both the technical challenge as well as the promise o
 There’s always a correct answer, mandatory syntax, and an optimal O(N). Data science, on the other hand, is based on the premise of why. It exists in a constant state of discovery, seeking not only to answer questions but to pose them.
 
 
-This is the problem solving that excites us. Answers are seldom defined, and correlation prompts further inquiry. Ultimately, the values lies in asking the *right* questions.
+This is the problem solving that we find most engaging. Answers are seldom defined, and correlation prompts further inquiry. Ultimately, the values lies in asking the *right* questions.
 
 JackalDS is our outlet for exploration. Here, we want to study data, discover trends, and display findings elegantly.  In the coming weeks, you can expect analysis of contemporary phenomena, discussions regarding the role of data in our society, and much more. We hope you join us on journey.
 
