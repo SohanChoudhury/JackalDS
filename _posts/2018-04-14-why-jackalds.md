@@ -3,7 +3,7 @@ layout: post
 title: Why JackalDS?
 ---
 
-![Golden spiral examples](https://github.com/SohanChoudhury/JackalDS/blob/master/_posts/golden-sprial-examples.jpeg?raw=true)
+![Golden spiral examples.](https://github.com/SohanChoudhury/JackalDS/blob/master/_posts/golden-sprial-examples.jpeg?raw=true)
 
 The golden spiral manifests itself throughout nature in shells, flowers, and the human body. It has been described as pleasing to the human eye, and hailed as an example of how vision has evolved to prefer such patterns.
 
