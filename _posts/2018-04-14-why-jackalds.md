@@ -12,6 +12,8 @@ As put by Adrian Bejan, professor of Mechanical Engineering at Duke University,
 
 And the basis for this spiral? It’s a logarithmic pattern whose growth factor is a simple ratio which we get from the Fibonacci Sequence. The physical structures have entranced us for millennia, but it is only recently that we’ve been able to truly understand and quantify their nature.
 
+![Golden ratio graph.](https://github.com/SohanChoudhury/JackalDS/blob/master/_posts/golden-ratio-graph.jpg?raw=true)
+
 It’s evidence that patterns are everywhere, simply waiting to be discovered. That is what excites us.
 
 We joined CS, intrigued by both the technical challenge as well as the promise of problem solving. While we’ve been exposed to the latter in great capacity, our experiences have been both deterministic and structured.
