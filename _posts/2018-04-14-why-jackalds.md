@@ -8,7 +8,7 @@ title: Why JackalDS?
 The golden spiral manifests itself throughout nature in shells, flowers, and the human body. It has been described as pleasing to the human eye, and hailed as an example of how vision has evolved to prefer such patterns.
 
 As put by Adrian Bejan, professor of Mechanical Engineering at Duke University,
-> It is well known that the eyes take in information more efficiently when they scan side to side… This is the best flowing configuration for images from plane to brain.
+> It is well known that the eyes take in information more efficiently when they scan side to side… this is the best flowing configuration for images from plane to brain.
 
 And the basis for this spiral? It’s a logarithmic pattern whose growth factor is a simple ratio which we get from the Fibonacci Sequence. The physical structures have entranced us for millennia, but it is only recently that we’ve been able to truly understand and quantify their nature.
 
