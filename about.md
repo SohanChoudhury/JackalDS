@@ -17,7 +17,7 @@ As someone relatively new to Computer Science, I hope to explore new technologie
 
 I enjoy new foods, attending talks, and striking up conversation about watches, politics, [logic problems](https://github.com/SohanChoudhury/APrisonerProblem), and anything in between. Oh, and I also run a fantastic blog with an okay guy.
 
-Want to learn more? Check out my personal [website](http://sohanchoudhury.com), or shoot me an email at sohan@jackalds.com!
+Want to learn more? Check out my personal [website](http://sohanchoudhury.com), or shoot me an email at [sohan@jackalds.com](mailto:rohan@jackalds.com)!
 
 
 ## Rohit
@@ -30,13 +30,9 @@ Outside of just coursework, I work part-time on Home Depot’s Search Engine tea
 
 In my free time, I am always down for a pickup game of ultimate frisbee, going on a run, listening to some Chance and of course blogging! You can always talk to me about philosophy, consumer tech, or the Marvel Cinematic Universe.
 
-If you’re curious about more check me out at my personal website [rohitmittapalli.com](http://rohitmittapalli.com) or reach out to me at rohit@jackalds.com. I would love to talk!
+If you’re curious about more check me out at my personal website [rohitmittapalli.com](http://rohitmittapalli.com) or reach out to me at [rohit@jackalds.com](mailto:rohit@jackalds.com). I would love to talk!
 
 
 -----
 
 Now that you know a little bit about us, we would love to get to know you! Feel free to reach out to us individually or at mail@jackalds.com.
-
-
-
-
