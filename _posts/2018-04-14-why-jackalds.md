@@ -13,7 +13,7 @@ There’s always a correct answer, mandatory syntax, and an optimal O(N) efficie
 
 This is the problem solving that excites us. Answers are seldom defined, and correlation prompts further inquiry. Ultimately, the value lies in asking the *right* questions.
 
-JackalDS is our outlet for exploration. Here, we want to study data, discover trends, and display findings elegantly.  In the coming weeks, you can expect analysis of contemporary datasets, technical walkthroughs, and personal takes on the role of data in our society. We hope you join us on journey.
+JackalDS is our outlet for exploration. Here, we want to study data, discover trends, and display findings elegantly.  In the coming weeks, you can expect analysis of contemporary datasets, technical walkthroughs, and personal takes on the role of data in our society. We hope you join us on our journey.
 
 As for the name, Jackal? We’ll get back to you on that.
 
